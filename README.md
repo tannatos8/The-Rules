@@ -7,9 +7,6 @@ Este proyecto esta enmarcado por la materia Bases de Datos de la facultad de Ing
 
 Se inicializa con la importación de la base de datos en Mysql Workbench y la descarga o clonación del proyecto, dentro del proyecto en la carpeta *Connection* dentro de la cual esta una clase llamada *MysqlConnection.cs* en la cual se tiene que cambiar el usuario y contraseña del usuario de la base de datos, posteriormente ejecutar el programa.
 
-## Create files and folders
-
-Se inicializa con la importación de la base de datos en Mysql Workbench y la descarga o clonación del proyecto, dentro del proyecto en la carpeta **Connection** dentro de la cual esta una clase llamada **MysqlConnection.cs** en la cual se tiene que cambiar el usuario y contraseña del usuario de la base de datos, posteriormente ejecutar el programa.
 
 ## Pre-Requisitos
 
