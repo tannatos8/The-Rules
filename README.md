@@ -5,7 +5,7 @@ Este proyecto esta enmarcado por la materia Bases de Datos de la facultad de Ing
 
 # Configuración
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Se inicializa con la importación de la base de datos en Mysql Workbench y la descarga o clonación del proyecto, dentro del proyecto en la carpeta *Connection* dentro de la cual esta una clase llamada *MysqlConnection.cs* en la cual se tiene que cambiar el usuario y contraseña del usuario de la base de datos, posteriormente ejecutar el programa.
 
 ## Create files and folders
 
@@ -26,11 +26,6 @@ Esta es la primera versión de la entrega de **The Rules!**, pensando en seguir 
  - **Juan Nicolas Anaya Sierra**-Estudiante
    
  - **Iván Darío Torres Garnica**-Estudiante
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
 
 # Licencia
 Licencia MIT
