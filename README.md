@@ -14,18 +14,19 @@ Se inicializa con la importación de la base de datos en Mysql Workbench y la de
    
  - **Mysql WorkBench**
 
-## Versión 
+## Versión
+![me](https://img.shields.io/badge/Version-1.0.0-green)
 
 Esta es la primera versión de la entrega de **The Rules!**, pensando en seguir mejorando.
 
 ## Autores
 
- - **Juan Nicolas Anaya Sierra**-Estudiante
-   
+ - **Juan Nicolas Anaya Sierra**-Estudiante  
  - **Iván Darío Torres Garnica**-Estudiante
 
 # Licencia
-https://img.shields.io/badge/LICENCIA-CORRECTA-green
+![me](https://img.shields.io/badge/license-MIT-green)
+
 Licencia MIT
 
 Copyright (c) [2019] [Juan Nicolas Anaya Sierra, Iván Darío Torres Garnica]
