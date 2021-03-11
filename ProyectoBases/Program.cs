@@ -15,6 +15,7 @@ namespace ProyectoBases
         [STAThread]
         static void Main()
         {
+            //aplicacion
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
