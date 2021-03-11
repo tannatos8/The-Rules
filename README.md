@@ -25,6 +25,7 @@ Esta es la primera versión de la entrega de **The Rules!**, pensando en seguir 
  - **Iván Darío Torres Garnica**-Estudiante
 
 # Licencia
+/apm/l/:packageName
 Licencia MIT
 
 Copyright (c) [2019] [Juan Nicolas Anaya Sierra, Iván Darío Torres Garnica]
