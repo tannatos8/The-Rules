@@ -95,7 +95,7 @@
             // 
             this.Btn_ingresar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Btn_ingresar.BackgroundImage")));
             this.Btn_ingresar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Btn_ingresar.Location = new System.Drawing.Point(262, 263);
+            this.Btn_ingresar.Location = new System.Drawing.Point(258, 263);
             this.Btn_ingresar.Name = "Btn_ingresar";
             this.Btn_ingresar.Size = new System.Drawing.Size(120, 30);
             this.Btn_ingresar.TabIndex = 13;
