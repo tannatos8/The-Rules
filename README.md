@@ -15,7 +15,7 @@ Se inicializa con la importación de la base de datos en Mysql Workbench y la de
  - **Mysql WorkBench**
 
 ## Versión
-![me](https://img.shields.io/badge/Version-1.0.0-green)
+![me](https://img.shields.io/badge/Version-1.0.0-green) ![me](https://img.shields.io/badge/size-213%20MB-blue)
 
 Esta es la primera versión de la entrega de **The Rules!**, pensando en seguir mejorando.
 
